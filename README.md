@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Divine
-###A passionate web developer
+A passionate web developer
 
 <!--
 **IkireziDivine01/IkireziDivine01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
